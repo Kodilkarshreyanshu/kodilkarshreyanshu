@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kodilkarshreyanshu@gmail.com**
 
-- ⚡ Fun fact **I am introvert**
+- ⚡ Fun fact **I am introvert 🫥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
