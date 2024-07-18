@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://github.com/Kodilkarshreyanshu/kodilkarshreyanshu/blob/main/Shreyanshu%20kodilkar%20(1).png" width="100%"></p>
+
 <h1 align="center">Hi 👋, I'm Shreyanshu Kodilkar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
