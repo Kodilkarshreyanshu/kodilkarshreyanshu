@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cloud and Devops**
 
-- 👨‍💻 All of my projects are available at [https://shreyanshuk.netlify.app](https://shreyanshuk.netlify.app)
+
 
 - 💬 Ask me about **Web Development, Machine Learning**
 
